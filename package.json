@@ -1,0 +1,20 @@
+{
+  "name": "angular-base",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Filipews/angular-base.git"
+  },
+  "author": "Filipe W",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Filipews/angular-base/issues"
+  },
+  "homepage": "https://github.com/Filipews/angular-base#readme"
+}
