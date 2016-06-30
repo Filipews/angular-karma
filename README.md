@@ -1,6 +1,6 @@
 # angular-karma #
 
-This is an extension of the https://github.com/Filipews/angular-base app. This version adds karma test runner and unit testing.
+This is an extension of the https://github.com/Filipews/angular-base app. This version adds karma test runner (http://karma-runner.github.io/) and unit testing.
 
 Simplistic angular base app using only 'npm' as package manager.
 
